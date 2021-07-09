@@ -1,0 +1,4 @@
+{
+    "PS1": "\n[plugbot 2.0.0 beta build]\ncommand?>",
+    "PATH": "./cmd/commands"
+}
