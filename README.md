@@ -1,4 +1,5 @@
 # betterbot-plugins
+## also official plugins can be found [here](https://github.com/NRDsstuff/official-plugbot-plugins)
 a new version of betterbot, now supporting plugins instead of commands and features
 ## dependencies
 ### to install dependencies, open install-dependencies (sh for linux or mac, bat for windows)
